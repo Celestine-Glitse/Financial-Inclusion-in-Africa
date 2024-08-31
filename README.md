@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to predict which individuals in Kenya, Rwanda, Tanzania, and Uganda are most likely to have or use a bank account. The ability to access bank accounts is a critical indicator of financial inclusion and economic development. Using machine learning techniques, this project provides insights into the factors that drive financial security across these countries.
+This project aims to predict which individuals in Kenya, Rwanda, Tanzania, and Uganda are most likely to have or use a bank account. The ability to access bank accounts is a critical indicator of financial inclusion and economic development. This project uses machine learning techniques to provide insights into the factors that drive financial security across these countries.
 
 ## Table of Contents
 
@@ -47,6 +47,7 @@ This project explores various machine learning models, including:
 
 The following metrics were used to evaluate the models:
 - **Accuracy**: The proportion of correct predictions.
+- **Mean Absolute Error (MAE)**: The average absolute differences between the predicted and actual values. MAE clearly indicates how close predictions are to the actual outcomes on average, with lower values indicating better performance.
 - **Confusion Matrix**: A matrix to visualize the performance, showing True Positives, True Negatives, False Positives, and False Negatives.
 - **Classification Report**: Includes precision, recall, and F1-score for each class.
 
